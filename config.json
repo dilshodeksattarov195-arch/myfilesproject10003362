@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productsender",
+        "uuid": 32009602,
+        "checksum": "vrvak"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
